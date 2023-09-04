@@ -8,16 +8,16 @@ create table agenda(
  endereco varchar(200)
 );
 
-INSERT INTO agenda values("Luan","(66)997762123","Inglaterra"),
-("Juan","(15)9880765432","Sobradinho/DF"),
-("Roman","(77)988976564", "Rio de Janeiro- Rj"),
-("Léo", "(88)997654321", "Taguatinga Centro- DF"),
-("Jonas", "(62)08009697", "Recife-PE"),
-("Carlos", "(66)978654123", "Buenos Aires"),
-("Jotinha", "(21)966851123", "São Paulo- SP"),
-("Donald", "(15)44523922", "New York"),
-("Monica", "(61)8876543", "Asa norte - DF"),
-("Romario", "(21)997065743", "Rio de Janeiro - RJ");
+INSERT INTO agenda values("Lorena","6699458123","Tokyo"),
+("Jonatan","619880765432","Samambaia"),
+("Roberto","61988976564", "Brasilia"),
+("Léo", "61997654321", "gama"),
+("Julian", "6108009697", "Paraiba"),
+("Caroline", "66978654123", "Los angeles"),
+("Juliano", "21956851123", "São Paulo"),
+("Damasco", "1544523922", "New York"),
+("well", "618876543", "Ceilandia"),
+("Robertin", "61997065743", "Rio de Janeiro");
 
 select * from agenda;
 
